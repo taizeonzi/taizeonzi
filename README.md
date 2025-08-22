@@ -1,9 +1,9 @@
-Olá!! 👋 Me chamo Taíze Onzi, sou estudante de Análise e Desenvolvimento de Sistemas.
+##Olá!! 👋 Me chamo Taíze Onzi, sou estudante de Análise e Desenvolvimento de Sistemas.
 
-  💻 Buscando oportunidade na área
+  ##💻 Buscando oportunidade na área
 
 
-  📚 Estudando no momento
+  ###📚 Estudando no momento
 
 Iniciei a disciplina de desenvolvimento Web, então vou documentar minhas práticas em HTML, CSS, JavaScript e PHP nos próximos meses.
 
