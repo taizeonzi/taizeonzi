@@ -24,6 +24,5 @@ Estou sempre em busca de evolução e novos conhecimentos.
 
 ## 📫 Contato
 - ✉️ E-mail: **taizeonzi@gmail.com**  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/taize-onzi/)
-
+- 🔗 Linkedin: https://www.linkedin.com/in/taize-onzi/
 ---
