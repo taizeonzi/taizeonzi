@@ -1,13 +1,29 @@
-##Olá!! 👋 Me chamo Taíze Onzi, sou estudante de Análise e Desenvolvimento de Sistemas.
+# Olá, mundo! 👋✨
 
-  ##💻 Buscando oportunidade na área
+Me chamo **Taíze Onzi** e sou estudante de **Análise e Desenvolvimento de Sistemas**.  
 
+---
 
-  ###📚 Estudando no momento
+## 💻 O que estou fazendo
+- 🔎 Buscando oportunidade na área  
+- 📚 Estudando **Desenvolvimento Web**
 
-Iniciei a disciplina de desenvolvimento Web, então vou documentar minhas práticas em HTML, CSS, JavaScript e PHP nos próximos meses.
+No momento iniciei a disciplina de **Desenvolvimento Web**, e pretendo documentar minhas práticas com:
+- HTML  
+- CSS  
+- JavaScript  
+- PHP  
 
-🌱 Encontrei na tecnologia a oportunidade de aprender e ser desafiada a cada dia, em busca de evolução.
+---
 
-📧 e-mail: taizeonzi@gmail.com
-🔗 Linkedin: https://www.linkedin.com/in/taize-onzi/
+## 🌱 Sobre mim
+Encontrei na **tecnologia** a chance de aprender, crescer e ser desafiada todos os dias.  
+Estou sempre em busca de evolução e novos conhecimentos.
+
+---
+
+## 📫 Contato
+- ✉️ E-mail: **taizeonzi@gmail.com**  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/taize-onzi/)
+
+---
