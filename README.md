@@ -7,7 +7,7 @@ Me chamo **Taíze Onzi** e sou estudante de **Análise e Desenvolvimento de Sist
 ## 🌱 O que estou fazendo
 - 🔎 **Buscando oportunidade na área**
 - 🛠️ Desenvolvendo projetos pessoais
-- 📚 Cursando o 3º semestre de ADS
+- 📚 Cursando o 4º semestre de ADS
 
 ---
 
